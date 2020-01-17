@@ -141,8 +141,4 @@ table {
     color: #0FF;
     background: #F00;
     transition: all 0.2s ease-in-out;
-
-    &:hover {
-        color: #F0F;
-    }
 }
